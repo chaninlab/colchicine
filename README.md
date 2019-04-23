@@ -1,4 +1,4 @@
-# Supplemental Information
+# Supplementary Information
 ## Data set
 
 The colchicine data set is provided as a CSV file (***colchicine.csv***). This data set was used for the research article entitled *Rational design of colchicine derivatives as anti-HIV agents via QSAR and molecular docking* published in *Medicinal Chemistry* journal.
