@@ -1,4 +1,5 @@
-# Supplemental Information - Data set used in QSAR and Molecular Docking study
+# Supplemental Information
+## Data set
 
 This data set is provided as a CSV file and was used for the research article entitled *Rational design of colchicine derivatives as anti-HIV agents via QSAR and molecular docking* published in *Medicinal Chemistry* journal.
 
