@@ -6,6 +6,6 @@ This data set is provided as a CSV file and was used for the research article en
 <pre>
 Worachartcheewan A, Songtawee N, Siriwong S, Prachayasittikul S, Nantasenamat 
 C, Prachayasittikul V. Rational design of colchicine derivatives as anti-HIV
-agents via QSAR and molecular docking. Med. Chem. 15(4) 2018: 328-340. 
+agents via QSAR and molecular docking. Med. Chem. 15(4) 2019: 328-340. 
 doi:10.2174/1573406414666180924163756.
 </pre>
